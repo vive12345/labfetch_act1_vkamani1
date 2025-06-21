@@ -1,8 +1,11 @@
 ## File Structure
 
+```
+
 labfetch_act1_vkamani1.vue // Activity 1 submission
 labfetch_act2_vkamani1.vue // Activity 2 submission
 README.md // This documentation
+```
 
 ## Acitivity 1
 
